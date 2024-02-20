@@ -18,9 +18,8 @@
     <strong>Telegram -</strong><em>@ekiari</em>
 </p>
 
-<h2 align="center">omg Frieren :0</h2>
 <p align="center">
-    <img src="frieren.gif" alt="Frieren elf" width="300px"/>
+    <img src="frieren.gif" alt="Frieren elf" width="300px" title="omg Frieren :0"/>
 </p>
 
 <h2 align="center">My stats!</h2>
@@ -29,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
-<h3 align="center">...</h3>
+
 <p align="center">
     <img src="smile_tanos.gif" alt="Smile Tanos" width="300px"/>
 </p>
