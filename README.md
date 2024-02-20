@@ -18,4 +18,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
+<h2 align="center">Contact</h2>
+<p align="center">
+    <strong>Discord -</strong><em>@ekiari</em>
+    <strong>Telegram -</strong><em>@ekiari</em>
+</p>
+
+
+
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ekiari" /> -->
