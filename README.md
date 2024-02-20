@@ -29,6 +29,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
+<h3 align="center">...</h3>
+<p align="center">
+    <img src="smile_tanos.gif" alt="Smile Tanos" width="300px"/>
+</p>
+
 
 
 
