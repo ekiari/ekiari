@@ -16,6 +16,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ekiari&theme=tokyonight&show_icons=true&hide_rank=true&custom_title=My%20stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekiari&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ekiari" />
 </p>
 
 <!--
