@@ -18,7 +18,7 @@
     <strong>Telegram -</strong><em>@ekiari</em>
 </p>
 
-<h3 align="center">omg Frieren :0</h3>
+<h2 align="center">omg Frieren :0</h2>
 <p align="center">
     <img src="frieren.gif" alt="Frieren elf" width="300px"/>
 </p>
