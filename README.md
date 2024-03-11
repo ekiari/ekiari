@@ -3,13 +3,13 @@
 
 <h2 align="center">I'm learning</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,rust,linux,bash,sqlite" alt="html, css, js, nodejs, rust, linux, bash, sqlite">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,rust,linux,bash,sqlite" alt="js, nodejs, rust, linux, bash, sqlite">
 </p>
 
 <h2 align="center">I'm learned</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=cs,unity" alt="cs,unity" title="basics">
-  <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio" alt="git, github, ps, vscode, visualstudio">
+  <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio,html,css" alt="git, github, ps, vscode, visualstudio, html, css">
 </p>
 
 <h2 align="center">Contact</h2>
