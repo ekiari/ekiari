@@ -12,11 +12,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio,html,css" alt="git, github, ps, vscode, visualstudio, html, css">
 </p>
 
-<h2 align="center">Contact</h2>
+<!-- <h2 align="center">Contact</h2>
 <p align="center">
     <strong>Discord -</strong><em>@ekiari</em> <br/>
     <strong>Telegram -</strong><em>@ekiari</em>
-</p>
+</p> -->
 
 <p align="center">
     <img src="frieren.gif" alt="Frieren elf" width="300px" title="omg Frieren :0"/>
