@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm learning</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,rust,linux,bash" alt="js, nodejs, rust, linux, bash">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,linux,bash" alt="js, nodejs, linux, bash">
 </p>
 
 <h2 align="center">I'm learned</h2>
