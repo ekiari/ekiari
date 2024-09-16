@@ -9,7 +9,7 @@
 <h2 align="center">I'm learned</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=cs,unity" alt="cs,unity" title="basics">
-  <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio,html,css" alt="git, github, ps, vscode, visualstudio, html, css, js">
+  <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio,html,css,js" alt="git, github, ps, vscode, visualstudio, html, css, js">
 </p>
 
 <!-- <h2 align="center">Contact</h2>
