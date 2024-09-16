@@ -29,9 +29,9 @@
 </p>-->
 
 
-<p align="center">
+<!--<p align="center">
     <img src="smile_tanos.gif" alt="Smile Tanos" width="300px"/>
-</p>
+</p>-->
 
 
 
