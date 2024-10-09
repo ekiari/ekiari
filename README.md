@@ -8,8 +8,8 @@
 
 <h2 align="center">I'm learned</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,unity" alt="cs,unity" title="basics">
-  <img src="https://skillicons.dev/icons?i=git,github,ps,vscode,visualstudio,html,css,js,linux,bash" alt="git, github, ps, vscode, visualstudio, html, css, js, linux, bash">
+  <img src="https://skillicons.dev/icons?i=cs" alt="cs" title="basics">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,linux,bash" alt="git, github, vscode, html, css, js, linux, bash">
 </p>
 
 <!-- <h2 align="center">Contact</h2>
