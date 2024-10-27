@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react" alt="nodejs, react">
 </p>
 
-<h2 align="center">I'm learned</h2>
+<h2 align="center">I've learned</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=cs" alt="cs" title="basics">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,linux,bash" alt="git, github, vscode, html, css, js, linux, bash">
