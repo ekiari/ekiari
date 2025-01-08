@@ -1,6 +1,6 @@
 <h2 align="center">My stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,git,js,linux,bash,cs" alt="nodejs, react, git, js, linux, bash, cs">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,git,js,linux,bash,cs" alt="nodejs, react, ts, git, js, linux, bash, cs">
 </p>
 
 <p align="center">
