@@ -3,6 +3,6 @@
   <img src="https://skillicons.dev/icons?i=cs,kotlin,ts,nodejs,react,git,js,linux,bash" alt="cs, kotlin, ts, nodejs, react, git, js, linux, bash">
 </p>
 
-<!-- <p align="center">
+<<p align="center">
     <img src="frieren.gif" alt="Frieren elf" width="300px" title="omg Frieren :0"/>
-</p> -->
+</p>
